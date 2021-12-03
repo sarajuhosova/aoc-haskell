@@ -1,4 +1,4 @@
-module AoC2021.Day2 ( output ) where
+module AoC2021.Day02 ( output ) where
 
 example :: [(String, Int)]
 example = [("forward", 5), ("down", 5), ("forward", 8), ("up", 3), ("down", 8), ("forward", 2)]

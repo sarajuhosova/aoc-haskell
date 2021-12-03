@@ -1,4 +1,4 @@
-module AoC2021.Day1 ( output ) where
+module AoC2021.Day01 ( output ) where
 
 import Text.Parsec
 

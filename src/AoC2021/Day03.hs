@@ -1,4 +1,4 @@
-module AoC2021.Day3 ( output ) where
+module AoC2021.Day03 ( output ) where
 
 import Data.Char ( digitToInt )
 
